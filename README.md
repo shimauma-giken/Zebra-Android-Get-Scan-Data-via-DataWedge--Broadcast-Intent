@@ -10,9 +10,10 @@ Zebra Android端末（TC/EC）で単一バーコードを取得し、取得デ�
 
 ## アプリの利用方法
 
-1. Demo-App.apkアプリをインストールする。（※）
-2. 下記リンクを参考にDataWedgeの設定をする。
+1. Demo-App.apkアプリをインストールする。（※）  
+1. 下記リンクを参考にDataWedgeの設定をする。  
 [Basic Intent in Java > Configuration](https://techdocs.zebra.com/datawedge/latest/guide/samples/basicintent1/)
+
 ※ お手元の環境で動作しない場合はソースコードを環境に合わせて修正し、再ビルドをお願いします。
 
 </br>
@@ -20,6 +21,7 @@ Zebra Android端末（TC/EC）で単一バーコードを取得し、取得デ�
 ## コードの詳細について
 
 下記をご参照ください。
+
 [Basic Intent in Java > Sample code walk-through](https://techdocs.zebra.com/datawedge/latest/guide/samples/basicintent1/)
 
 
