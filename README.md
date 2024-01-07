@@ -1,5 +1,7 @@
 ## Zebra Android端末でバーコードデータをDataWedge経由で取得する方法
 
+Zebra Android ビギナー勢からお問い合わせが多いので作成。
+
 Zebra Android端末（TC/EC）で単一バーコードを取得し、取得データを画面上に表示させるデモアプリ。Techdocsの説明ではわからない場合の参考資料としてご利用ください。
 
 - DataWedge 経由でデータを取得
